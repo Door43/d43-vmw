@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vmw:home|Door43 (vmw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vmw|d43-vmw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vmw/archive/master.zip|d43-vmw.zip]]
+
+**Recent Changes**
+{{changes>ns = vmw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vmw|Ethnologue data]]
+
